@@ -7,7 +7,7 @@
 Independent digital system consultant & developer.
 From process analysis to a ready-to-use system — helping businesses build digital solutions that are relevant, efficient, and easy to scale.
 
-[![Bahasa Indonesia](https://img.shields.io/badge/Bahasa_Indonesia-Indonesian-green?style=flat-square)](profile/README.id.md)
+[![Bahasa Indonesia](https://img.shields.io/badge/Bahasa_Indonesia-Indonesian-green?style=flat-square)](README.id.md)
 [![Free Consultation](https://img.shields.io/badge/Free_Consultation-30_Minutes-blue?style=for-the-badge)](https://crediblemark.com/en)
 [![View Portfolio](https://img.shields.io/badge/Portfolio-See_Our_Work-darkblue?style=for-the-badge)](https://crediblemark.com/en/portfolio)
 
