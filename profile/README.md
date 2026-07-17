@@ -1,128 +1,158 @@
-# Crediblemark — Designer of Your Business Digital System
+<div align="center">
 
-> Independent digital system consultant & developer. From process analysis to a ready-to-use system — helping businesses build digital solutions that are relevant, efficient, and easy to scale.
+# CREDIBLEMARK
 
-**Website:** [crediblemark.com](https://crediblemark.com) · **Contact:** [crediblemarkofficial@gmail.com](mailto:crediblemarkofficial@gmail.com)
+### Desainer Sistem Digital Bisnis Anda
 
----
+Konsultan & pengembang sistem digital independen.
+Dari analisis proses kerja hingga sistem siap pakai — membantu bisnis membangun solusi digital yang relevan, efisien, dan mudah dikembangkan.
 
-## Approach: Analysis Before Development
+[![Konsultasi Gratis](https://img.shields.io/badge/Konsultasi_Gratis-30_Menit-blue?style=for-the-badge)](https://crediblemark.com/en)
+[![Lihat Portfolio](https://img.shields.io/badge/Portfolio-Lihat_Hasil_Kerja-darkblue?style=for-the-badge)](https://crediblemark.com/en/portfolio)
 
-> "Start with the business problem."
-
-A good system does not start with a feature list. Workflows, user needs, bottlenecks, and business goals must be understood first. Once the problem is clear, we determine if the solution is a process refinement, website, custom app, integration, automation, or using existing tools.
-
-### What You Get
-
-- **Analysis Before Development** — Problems and needs are mapped out before features and technologies are decided
-- **Direct Communication** — You communicate directly with the founder and developer working on the project
-- **Transparent Project Scope** — Features, costs, duration, and deliverables are agreed before starting
-- **Trackable Progress** — Development progress can be viewed through the project dashboard
-- **Clear System Ownership** — Code, database, and system accesses are handed over in full after payment
-- **90-Day Bug Warranty** — Bugs within the scope are fixed after the system launch
+</div>
 
 ---
 
-## Consult · Build · Support
+## Analisis Sebelum Development
 
-| Phase | What Happens |
-|-------|-------------|
-| **Consult** | Analyze problems, workflows, user needs, risks, and business goals. The result forms the project blueprint and scope. |
-| **Build** | Design and build websites, apps, databases, dashboards, and integrations based on the agreed blueprint. |
-| **Support** | Assist with launch, documentation, training, bug fixes, maintenance, and further development as needed. |
+> Sistem yang baik tidak bermula dari daftar fitur.
+> Workflow, kebutuhan pengguna, hambatan operasional, dan tujuan bisnis harus dipahami dulu.
+> Setelah masalahnya jelas, baru ditentukan solusinya — apakah perbaikan proses, website, aplikasi kustom, integrasi, otomasi, atau menggunakan tools yang sudah ada.
 
 ---
 
-## Solutions Built on Business Needs
+## Yang Anda Dapatkan
 
-Crediblemark does not use a one-size-fits-all approach. Each system is designed based on workflows, users, and business goals.
+**Analisis Sebelum Development**
+Masalah dan kebutuhan dipetakan lebih dulu, sebelum menentukan fitur atau teknologi.
 
-### Growth System — Websites for Sales and Credibility
-Company profile websites, landing pages, catalogs, and business sites that help build trust and generate leads.
+**Komunikasi Langsung**
+Anda berkomunikasi langsung dengan founder dan pengembang yang mengerjakan proyek — tanpa perantara.
 
-### Operation System — Applications & Operational Systems
-CRM, inventory, booking, dashboards, customer portals, and admin systems that reduce manual work.
+**Lingkup Proyek Transparan**
+Fitur, biaya, durasi, dan deliverables disepakati sebelum development dimulai.
 
-### Support System — Integration & System Support
-API integrations, deployment, backups, maintenance, and further development to keep systems stable.
+**Progress Terpantau**
+Perkembangan development bisa dipantau melalui dashboard proyek.
 
----
+**Kepemilikan Sistem Jelas**
+Kode, database, dan akses sistem diserahkan sepenuhnya setelah pembayaran.
 
-## Digital System Audit
-
-Begin with a Digital System Audit. Crediblemark inspects your workflows, user needs, existing systems, and core business challenges. The result is a Digital System Blueprint as your decision and development foundation.
-
-**The Blueprint Contains:**
-- Problem summary & business goals
-- Current workflow mapping
-- Identified problems & risks
-- Digital system recommendations
-- System flow diagram
-- Feature prioritization
-- Timeline and investment estimate
-- Implementation steps
-
-*If the project continues with Crediblemark, the audit fee can be credited towards development costs based on agreement.*
+**Garansi Bug 90 Hari**
+Bug dalam lingkup proyek diperbaiki setelah sistem diluncurarkan.
 
 ---
 
-## Tech Stack
+## Consult · Design · Build
 
-```
-Languages:   TypeScript · Rust · JavaScript · CSS · Shell
-Frontend:    React · Next.js · Vite · Tailwind CSS · shadcn/ui
-Backend:     Fastify · Node.js · Bun · Prisma ORM
-Database:    PostgreSQL · pgvector · Redis
-AI/ML:       Vercel AI SDK · RAG · Vector Search · Voice Processing
-DevOps:      Docker · Turborepo · GitHub Actions
-Tools:       @dnd-kit · tiptap · Zustand · TanStack Router/Query
-```
+Tiga fase terpadu yang menghubungkan analisis, pengembangan, dan dukungan pasca-luncur.
 
----
+**Consult**
+Analisis masalah, workflow, kebutuhan pengguna, risiko, dan tujuan bisnis. Hasilnya menjadi blueprint dan lingkup proyek.
 
-## Featured Projects
+**Design**
+Rancang arsitektur sistem, flow data, UI/UX, dan spesifikasi teknis berdasarkan blueprint yang telah disepakati.
 
-### [credbuild](https://github.com/crediblemark-official/credbuild)
-**Open-source visual page builder for React.** Drag & drop editor powered by `@dnd-kit` and `tiptap`, with a premium dark UI for CMS workflows. Published on npm as `@crediblemark/build`.
-
-### [credbuild-ui](https://github.com/crediblemark-official/credbuild-ui)
-**45+ thematic block components** for CredBuild — Hero sections, Navigation, Features, Accordions, Footers — ready-to-use with Vanilla CSS.
-
-### [Ghost-Relay](https://github.com/crediblemark-official/Ghost-Relay)
-**AI-powered team communication bridge.** Unifies WhatsApp, Telegram, and Slack into one feed. Features voice transcription, RAG auto-reply, semantic file search, and daily reports. Built with Fastify, React 19, PostgreSQL + pgvector.
-
-### [InstructCanvas (.icvs)](https://github.com/crediblemark-official/icvs)
-**Next-gen instruction format for AI coding agents.** Replaces Markdown with a DAG-based structure — precise for machines, readable for humans. Written in Rust, available on crates.io, npm, and PyPI.
-
-### [pubdesk](https://github.com/crediblemark-official/pubdesk)
-**Integrated book publishing & operations management system** — built for publishers who need a single system to manage editorial workflows, production, and distribution.
-
-### [situsbisnis](https://github.com/crediblemark-official/situsbisnis)
-**Multi-tenant CMS** built with Next.js, Prisma, and PostgreSQL — designed for speed, flexibility, and a premium editorial experience.
+**Build**
+Bangun dan luncurkan website, aplikasi, database, dashboard, dan integrasi sesuai blueprint — dengan progress yang transparan dan terpantau.
 
 ---
 
-## Open Source
+## Solusi Berdasarkan Kebutuhan Bisnis
 
-All public repositories are released under the **MIT License**. Contributions, issues, and feature requests are welcome.
+Crediblemark tidak menggunakan pendekatan satu untuk semua. Setiap sistem dirancang berdasarkan workflow, pengguna, dan tujuan bisnis.
 
-| Package | Registry | Description |
-|---------|----------|-------------|
-| `@crediblemark/build` | [npm](https://www.npmjs.com/package/@crediblemark/build) | Visual page builder for React |
-| `@crediblemark/build-ui` | [npm](https://www.npmjs.com/package/@crediblemark/build-ui) | Block component library for CredBuild |
-| `icvs` | [crates.io](https://crates.io/crates/icvs) | InstructCanvas CLI (Rust) |
-| `icvs-wasm` | [npm](https://www.npmjs.com/package/icvs-wasm) | InstructCanvas WASM bindings |
-| `instructcanvas` | [PyPI](https://pypi.org/project/instructcanvas/) | InstructCanvas Python library |
+### Growth System — Website untuk Penjualan dan Kredibilitas
+
+Website company profile, landing page, katalog produk, dan business site yang membantu membangun kepercayaan dan mendapatkan leads.
+
+### Operation System — Aplikasi dan Sistem Operasional
+
+CRM, inventory, booking system, dashboard, customer portal, dan admin system yang mengurangi pekerjaan manual dan meningkatkan akurasi data.
+
+### Support System — Integrasi dan Dukungan Sistem
+
+API integration, deployment, backup, maintenance, dan pengembangan lanjutan agar sistem tetap stabil dan berkembang seiring kebutuhan bisnis.
 
 ---
 
-## Let's Talk
+## Mulai dari Audit Sistem Digital
 
-Masalahnya terasa, solusinya belum jelas? Ceritakan proses yang ingin diperbaiki. Crediblemark akan membantu memetakan masalah, menentukan prioritas, dan menilai solusi digital yang paling relevan.
+Belum tahu harus mulai dari mana? Mulailah dengan Audit Sistem Digital.
 
-[Schedule a Free Consultation](https://crediblemark.com/en) — 30 minutes · Online · No obligation to start a project
+Crediblemark memeriksa workflow Anda, kebutuhan pengguna, sistem yang sudah ada, dan tantangan bisnis inti. Hasilnya adalah **Digital System Blueprint** sebagai fondasi keputusan dan pengembangan Anda.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-crediblemark.com-blue?style=for-the-badge)](https://crediblemark.com/en/portfolio)
+**Blueprint berisi:**
+
+- Ringkasan masalah dan tujuan bisnis
+- Pemetaan workflow saat ini
+- Identifikasi masalah dan risiko
+- Rekomendasi sistem digital
+- Diagram alur sistem
+- Priorisasi fitur
+- Estimasi timeline dan investasi
+- Langkah implementasi
+
+*Audit fee bisa dikreditkan ke biaya development jika proyek dilanjutkan dengan Crediblemark.*
+
+---
+
+## Kenapa Crediblemark
+
+**Bukan Template, tapi Dirancang Khusus**
+Setiap solusi dibangun dari workflow dan kebutuhan spesifik bisnis Anda — bukan template atau produk jadi yang dipaksakan.
+
+**Tanpa Markup Tim**
+Anda berkomunikasi langsung dengan orang yang mengerjakan proyek. Tanpa perantara, tanpa birokrasi.
+
+**Data Tersebar Bisa Diperbaiki**
+Data yang tadinya tersebar di file, chat, dan aplikasi yang berbeda — disatukan dalam satu sistem yang aksesibel.
+
+**Duplikasi Input Bisa Dihapus**
+Workflow otomasi mengurangi input berulang yang rawan kesalahan dan menghabiskan waktu tim.
+
+**Laporan Jadi Lebih Cepat**
+Data dari sumber yang sama, laporan tersusun lebih cepat tanpa harus menyusun ulang secara manual.
+
+**Sistem Sesuai Workflow Bisnis**
+Sistem digital yang dibangun selaras dengan cara kerja bisnis Anda — bukan sebaliknya.
+
+---
+
+## Mulai dengan Risiko Lebih Rendah
+
+Setelah briefing dan penyusunan blueprint, Anda bisa menilai apakah pendekatan Crediblemark cocok untuk bisnis Anda. Jika tidak sesuai dan development belum dimulai, deposit dikembalikan sesuai ketentuan.
+
+*Garansi tidak mencakup biaya domain, hosting, server, API, lisensi, atau layanan pihak ketiga yang sudah dibeli dengan persetujuan klien.*
+
+[Lihat Ketentuan Garansi](https://crediblemark.com/en/guarantee)
+
+---
+
+## Hubungi Crediblemark
+
+Masalahnya terasa, solusinya belum jelas? Ceritakan proses yang ingin diperbaiki — Crediblemark akan membantu memetakan masalah, menentukan prioritas, dan menilai solusi digital yang paling relevan.
+
+**Konsultasi awal gratis 30 menit** — online, tanpa kewajiban memulai proyek.
+
+<div align="center">
+
+[![Jadwalkan Konsultasi](https://img.shields.io/badge/Jadwalkan_Konsultasi-Gratis_30_Menit-blue?style=for-the-badge)](https://crediblemark.com/en)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Lihat_Hasil_Kerja-darkblue?style=for-the-badge)](https://crediblemark.com/en/portfolio)
+[![Blog](https://img.shields.io/badge/Insight-blog.crediblemark.com-green?style=for-the-badge)](https://blog.crediblemark.com)
+[![Estimasi Biaya](https://img.shields.io/badge/Cost_Calculator-Hitung_Estimasi-orange?style=for-the-badge)](https://crediblemark.com/en/price-calculator)
 [![Email](https://img.shields.io/badge/Email-crediblemarkofficial@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:crediblemarkofficial@gmail.com)
-[![Blog](https://img.shields.io/badge/Blog-blog.crediblemark.com-green?style=for-the-badge)](https://blog.crediblemark.com)
-[![Cost Calculator](https://img.shields.io/badge/Cost_Calculator-Get_Estimate-orange?style=for-the-badge)](https://crediblemark.com/en/price-calculator)
+[![Client Portal](https://img.shields.io/badge/Client_Portal-Login_Pelanggan-purple?style=for-the-badge)](https://crediblemark.com/handler/sign-in)
+
+</div>
+
+---
+
+<div align="center">
+
+*Crediblemark — Independent Digital System Consultant & Developer*
+
+[crediblemark.com](https://crediblemark.com)
+
+</div>
