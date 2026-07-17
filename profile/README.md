@@ -22,7 +22,7 @@ Independent digital system consultant & developer. From process analysis to a re
 
 ---
 
-## Analisis Sebelum Development
+## Analisis Sebelum Development · Analysis Before Development
 
 Sistem yang baik tidak bermula dari daftar fitur. Workflow, kebutuhan pengguna, hambatan operasional, dan tujuan bisnis harus dipahami dulu. Setelah masalahnya jelas, baru ditentukan solusinya — apakah perbaikan proses, website, aplikasi kustom, integrasi, otomasi, atau menggunakan tools yang sudah ada.
 
@@ -35,7 +35,7 @@ A good system does not start with a feature list. Workflows, user needs, bottlen
 
 ---
 
-## Yang Anda Dapatkan
+## Yang Anda Dapatkan · What You Get
 
 Crediblemark memberikan analisis sebelum development, sehingga masalah dan kebutuhan terpetakan sebelum fitur atau teknologi ditentukan. Anda berkomunikasi langsung dengan founder dan pengembang yang mengerjakan proyek — tanpa perantara, tanpa miskomunikasi. Lingkup proyek transparan sejak awal: fitur, biaya, durasi, dan deliverables disepakati sebelum development dimulai. Progress terpantau melalui dashboard proyek. Kode, database, dan akses sistem diserahkan sepenuhnya setelah pembayaran. Dan jika bug muncul dalam lingkup proyek setelah peluncuran, bug tersebut diperbaiki dalam garansi 90 hari.
 
@@ -73,7 +73,7 @@ Three integrated phases connect analysis, development, and post-launch support i
 
 ---
 
-## Solusi Berdasarkan Kebutuhan Bisnis
+## Solusi Berdasarkan Kebutuhan Bisnis · Solutions Built on Business Needs
 
 Crediblemark tidak menggunakan pendekatan satu untuk semua. Setiap sistem dirancang berdasarkan workflow, pengguna, dan tujuan bisnis.
 
@@ -98,7 +98,7 @@ Crediblemark does not use a one-size-fits-all approach. Each system is designed 
 
 ---
 
-## Mulai dari Audit Sistem Digital
+## Mulai dari Audit Sistem Digital · Start with a Digital System Audit
 
 Belum tahu harus mulai dari mana? Mulailah dengan Audit Sistem Digital. Crediblemark memeriksa workflow Anda, kebutuhan pengguna, sistem yang sudah ada, dan tantangan bisnis inti. Hasilnya adalah Digital System Blueprint — fondasi keputusan dan pengembangan Anda. Blueprint berisi ringkasan masalah dan tujuan bisnis, pemetaan workflow saat ini, identifikasi masalah dan risiko, rekomendasi sistem digital, diagram alur sistem, priorisasi fitur, estimasi timeline dan investasi, serta langkah implementasi. Audit fee bisa dikreditkan ke biaya development jika proyek dilanjutkan dengan Crediblemark.
 
@@ -111,7 +111,7 @@ Not sure where to begin? Start with a Digital System Audit. Crediblemark inspect
 
 ---
 
-## Kenapa Crediblemark
+## Kenapa Crediblemark · Why Crediblemark
 
 Setiap solusi dibangun dari workflow dan kebutuhan spesifik bisnis Anda — bukan template atau produk jadi yang dipaksakan. Anda berkomunikasi langsung dengan orang yang mengerjakan proyek, tanpa perantara dan tanpa birokrasi. Data yang tadinya tersebar di file, chat, dan aplikasi yang berbeda disatukan dalam satu sistem yang aksesibel. Workflow otomasi mengurangi input berulang yang rawan kesalahan dan menghabiskan waktu tim. Laporan tersusun lebih cepat dari satu sumber data, tanpa harus menyusun ulang secara manual. Dan sistem digital yang dibangun selaras dengan cara kerja bisnis Anda — bukan sebaliknya.
 
@@ -124,7 +124,7 @@ Every solution is custom-built from your specific business workflows and needs �
 
 ---
 
-## Mulai dengan Risiko Lebih Rendah
+## Mulai dengan Risiko Lebih Rendah · Start with Lower Risk
 
 Setelah briefing dan penyusunan blueprint, Anda bisa menilai apakah pendekatan Crediblemark cocok untuk bisnis Anda. Jika tidak sesuai dan development belum dimulai, deposit dikembalikan sesuai ketentuan. Garansi tidak mencakup biaya domain, hosting, server, API, lisensi, atau layanan pihak ketiga yang sudah dibeli dengan persetujuan klien.
 
@@ -139,7 +139,7 @@ After the briefing and blueprint compilation, you can assess whether Crediblemar
 
 ---
 
-## Hubungi Crediblemark
+## Hubungi Crediblemark · Contact Crediblemark
 
 Masalahnya terasa, solusinya belum jelas? Ceritakan proses yang ingin diperbaiki — Crediblemark akan membantu memetakan masalah, menentukan prioritas, dan menilai solusi digital yang paling relevan.
 
